@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 
 import java.time.LocalDateTime;
 
-import static com.emazon.transaction.adapters.driven.jpa.mysql.constants.ConstantsConfig.MESSAGE_NOT_POSSIBLE_UPDATE_STOCK;
+import static com.emazon.transaction.adapters.driven.jpa.mysql.constants.ConstantsAdapterJpa.MESSAGE_NOT_POSSIBLE_UPDATE_STOCK;
 
 
 @ControllerAdvice
